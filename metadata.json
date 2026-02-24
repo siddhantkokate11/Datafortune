@@ -1,0 +1,5 @@
+{
+  "name": "Kanban Task Management SaaS",
+  "version": "1.0.0",
+  "description": "High-fidelity Kanban Board with React, TypeScript, Tailwind, and dnd-kit"
+}
